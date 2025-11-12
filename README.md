@@ -1,8 +1,4 @@
 <h1 align="center">Hi, I'm Shivam Diwan</h1>
-<p align="center">
-  <b>B.Tech in Computer Science and Business Systems (CSBS)</b> <br>
-  GITAM University, Hyderabad  
-</p>
 
 ---
 
