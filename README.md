@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Shivam Diwan</h1>
 
+---
 
 ### 👨‍💻 About Me  
 I’m a front-end developer passionate about building **modern, responsive, and user-focused web applications**.  
@@ -12,7 +13,7 @@ Currently, I’m exploring advanced JavaScript techniques, React development, an
 | Category | Technologies |
 |-----------|--------------|
 | **Frontend** | ReactJS, TailwindCSS, HTML, CSS, JavaScript |
-| **Backend (Basics)** | Python, MySQL,nodeJS |
+| **Backend (Basics)** | Python, MySQL, NodeJS |
 | **Tools** | Git, GitHub, VS Code, Figma |
 
 ---
@@ -29,12 +30,19 @@ An immersive 3D landing page featuring smooth scrolling and interactive motion d
 
 ---
 
-
 ### 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DShivam9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400&hide_title=false&hide_progress=false" width="49%" />
+</p>
+
+---
+
+### 🧠 Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DShivam9&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" width="90%"/>
 </p>
 
 ---
