@@ -20,6 +20,11 @@ Currently, I’m exploring advanced JavaScript techniques, React development, an
 
 ### 📂 Featured Projects  
 
+#### [RetroPlay Hub](https://retroplayhub.netlify.app/)
+A modern web-based **retro gaming platform** that allows users to play classic games directly in the browser.  
+Features include multi-system support, a clean interface, and an integrated emulation setup for nostalgic gameplay.  
+**Tech Used:** ReactJS, Vite, TailwindCSS, RetroArch Cores, JavaScript  
+
 #### [WeatherEye](https://dshivam9.github.io/WeatherEye/)
 A real-time weather web app that provides accurate weather data with dynamic themes, dark mode, and animated visuals.  
 **Tech Used:** HTML, CSS, JavaScript, OpenWeatherMap API  
@@ -37,17 +42,7 @@ An immersive 3D landing page featuring smooth scrolling and interactive motion d
     <img src="https://github-readme-stats.vercel.app/api?username=DShivam9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
   </a>
   <a href="https://github.com/DShivam9?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400&hide_title=false&hide_progress=false" width="49%" />
-  </a>
-</p>
-
----
-
-### 🧠 Activity Graph  
-
-<p align="center">
-  <a href="https://github.com/DShivam9?tab=overview&from=2024-01-01&to=2025-12-31">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DShivam9&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" width="90%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400" width="49%" />
   </a>
 </p>
 
