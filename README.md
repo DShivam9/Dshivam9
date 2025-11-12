@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Shivam Diwan</h1>
 
----
 
 ### 👨‍💻 About Me  
 I’m a front-end developer passionate about building **modern, responsive, and user-focused web applications**.  
