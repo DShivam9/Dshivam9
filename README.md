@@ -33,16 +33,22 @@ An immersive 3D landing page featuring smooth scrolling and interactive motion d
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DShivam9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400&hide_title=false&hide_progress=false" width="49%" />
+  <a href="https://github.com/DShivam9">
+    <img src="https://github-readme-stats.vercel.app/api?username=DShivam9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
+  </a>
+  <a href="https://github.com/DShivam9?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400&hide_title=false&hide_progress=false" width="49%" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Activity Graph (Animated)
+### 🧠 Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DShivam9&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" width="90%"/>
+  <a href="https://github.com/DShivam9?tab=overview&from=2024-01-01&to=2025-12-31">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DShivam9&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=true" width="90%"/>
+  </a>
 </p>
 
 ---
