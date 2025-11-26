@@ -50,13 +50,6 @@ A stunning 3D landing page built using Spline with smooth motion interactions.
 
 ---
 
-### 📈 Activity Overview (Static Badges – Always Work)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DShivam9&style=for-the-badge&color=blue)
-![Followers](https://img.shields.io/github/followers/DShivam9?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/DShivam9?style=for-the-badge)
-
----
 
 ### 📫 Connect With Me  
 - **Email:** [shivamdiwan1500@gmail.com](mailto:shivamdiwan1500@gmail.com)  
