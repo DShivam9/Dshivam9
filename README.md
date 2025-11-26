@@ -4,52 +4,61 @@
 
 ### 👨‍💻 About Me  
 I’m a front-end developer passionate about building **modern, responsive, and user-focused web applications**.  
-I enjoy crafting interfaces that are both functional and visually engaging, with a focus on **clean design, performance, and smooth user interaction**.  
-Currently, I’m exploring advanced JavaScript techniques, React development, and UI/UX-driven design.  
+I love crafting interfaces that balance **clean design, performance, and smooth interaction**.  
+Currently focusing on advanced JavaScript, React, and UI/UX-driven development.
 
 ---
 
 ### ⚙️ Tech Stack  
-| Category | Technologies |
-|-----------|--------------|
-| **Frontend** | ReactJS, TailwindCSS, HTML, CSS, JavaScript |
-| **Backend (Basics)** | Python, MySQL, NodeJS |
-| **Tools** | Git, GitHub, VS Code, Figma |
+
+#### 🚀 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-e56027?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🛠️ Backend (Basics)  
+![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools  
+![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 📂 Featured Projects  
 
-#### 🎮 [RetroPlay Hub](https://retroplayhub.netlify.app/)
-A modern web-based **retro gaming platform** that allows users to play classic games directly in the browser.  
-Features include multi-system support, a clean interface, and an integrated emulation setup for nostalgic gameplay.  
+#### 🎮 **RetroPlay Hub**  
+🔗 https://retroplayhub.netlify.app/  
+A modern retro gaming platform with multi-system emulator support.  
 **Tech Used:** ReactJS, Vite, TailwindCSS, RetroArch Cores, JavaScript  
 
-#### ☀️ [WeatherEye](https://dshivam9.github.io/WeatherEye/)
-A real-time weather web app that provides accurate weather data with dynamic themes, dark mode, and animated visuals.  
+#### ☀️ **WeatherEye**  
+🔗 https://dshivam9.github.io/WeatherEye/  
+A real-time weather app with dynamic themes, dark mode, and animated visuals.  
 **Tech Used:** HTML, CSS, JavaScript, OpenWeatherMap API  
 
-#### 🧬 [OSCORP Landing Page](https://dshivam9.github.io/Immersive-Landing-Page/)
-An immersive 3D landing page featuring smooth scrolling and interactive motion design using Spline.  
+#### 🧬 **OSCORP 3D Landing Page**  
+🔗 https://dshivam9.github.io/Immersive-Landing-Page/  
+A stunning 3D landing page built using Spline with smooth motion interactions.  
 **Tech Used:** HTML, CSS, JavaScript, Spline  
 
 ---
 
-### 📊 GitHub Insights  
+### 📈 Activity Overview (Static Badges – Always Work)
 
-<p align="center">
-  
-  <!-- If these don’t load, see notes below -->
-  
-  ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DShivam9&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=transparent&hide_border=true&langs_count=6&card_width=400)
-
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=DShivam9&style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/DShivam9?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/DShivam9?style=for-the-badge)
 
 ---
 
 ### 📫 Connect With Me  
 - **Email:** [shivamdiwan1500@gmail.com](mailto:shivamdiwan1500@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/shivam-diwan](https://www.linkedin.com/in/shivam-diwan/)  
+- **LinkedIn:** https://www.linkedin.com/in/shivam-diwan/  
 
