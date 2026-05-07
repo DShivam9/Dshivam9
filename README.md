@@ -62,20 +62,19 @@ A scalable **PERN stack** campus management platform serving 4 distinct user rol
 #### 🎮 **RetroRift — Web-Based Retro Gaming Platform**
 🔗 [retro-rift.vercel.app](https://retro-rift.vercel.app/) | *React · Vite · WebGL · WebAssembly · Tailwind CSS*
 
-A cinematic retro gaming platform with in-browser emulation of 4 retro console architectures.
+A browser-based platform that lets you play classic retro games directly in your browser — no downloads, no emulators to install. Supports 4 retro console architectures with save states and gamepad support, wrapped in a cinematic arcade-inspired UI built with WebGL and WebAssembly.
 
-- 🎨 **Cinematic V3 UI** with animated WebGL (LineWaves, ShapeGrid) backgrounds, 3D perspective transforms, and diagonal clipping paths
-- ⚡ Scroll-triggered reveal animations via **IntersectionObserver** and staggered CSS transitions for a fluid, high-frame-rate experience
-- 🕹️ **WebAssembly (WASM)** emulation cores with persistent save-state management and full **Gamepad API** support
+#### ☀️ **WeatherEye**
+🔗 [dshivam9.github.io/WeatherEye](https://dshivam9.github.io/WeatherEye/) | *HTML · CSS · JavaScript · OpenWeatherMap API*
+
+A real-time weather app with dynamic themes, dark mode, and animated visuals.
 
 ---
 
-### 🏆 Leadership & Experience
+#### 🧬 **OSCORP 3D Landing Page**
+🔗 [dshivam9.github.io/Immersive-Landing-Page](https://dshivam9.github.io/Immersive-Landing-Page/) | *HTML · CSS · JavaScript · Spline*
 
-**Technical Project Lead — GITAM University** *(2024)*
-- Led a team of **4 developers** through the full software development lifecycle — from requirement gathering to final deployment
-- Conducted **code reviews**, resolved integration blockers, and ensured on-time milestone delivery
-- Facilitated daily standups and maintained project documentation, reducing debugging time through coordinated issue tracking
+A stunning 3D landing page with smooth motion interactions built using Spline.
 
 ---
 
