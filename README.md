@@ -60,7 +60,7 @@ A scalable **PERN stack** campus management platform serving 4 distinct user rol
 ---
 
 #### 🎮 **RetroRift — Web-Based Retro Gaming Platform**
-🔗 [retro-rift.vercel.app](https://retro-rift.vercel.app/) | *React · Vite · WebGL · WebAssembly · Tailwind CSS*
+🔗 [retro-rift.vercel.app](https://www.retrorift.online/) | *React · Vite · WebGL · WebAssembly · Tailwind CSS*
 
 A browser-based platform that lets you play classic retro games directly in your browser — no downloads, no emulators to install. Supports 4 retro console architectures with save states and gamepad support, wrapped in a cinematic arcade-inspired UI built with WebGL and WebAssembly.
 
