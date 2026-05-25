@@ -29,26 +29,26 @@
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<img align="right" src="https://media.tenor.com/PXx8wxe2CPEAAAAi/what.gif" width="200" alt="Animated sticker"/>
 
-<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="18"/> &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad** — CGPA **9.0/10**
+🎓 &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad** — CGPA **9.0/10**
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="18"/> &nbsp;Currently building polished **developer tools & web apps** that solve real problems
+🔭 &nbsp;Building **developer tools & web apps** that solve real problems
 
-<img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="18"/> &nbsp;Deep-diving into **Next.js, TypeScript & system design**
+🎮 &nbsp;Retro gaming nerd — if it runs on a CRT, I've probably played it
 
-<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="18"/> &nbsp;I ship side projects every month — from retro gaming platforms to image converters
+🏏 &nbsp;Cricket & badminton on weekends — competitive by nature, on and off the screen
 
-<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="18"/> &nbsp;Passionate about **clean code, pixel-perfect UI**, and ownership-driven development
+🌱 &nbsp;Currently deep-diving into **Next.js, TypeScript & system design**
 
-<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="18"/> &nbsp;Ask me about **React, Next.js, Node.js**, or anything frontend
+💬 &nbsp;Ask me about **React, gaming emulators**, or the best retro RPGs
 
 <br clear="right"/>
 
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
 
 <br/>
 
@@ -132,7 +132,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
 
 <br/>
 
@@ -214,7 +214,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
 
 <br/>
 
@@ -241,7 +241,7 @@
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,25:090979,50:4338ca,75:7c3aed,100:6d28d9&height=2&section=header" width="100%">
 
 <br/>
 
