@@ -31,7 +31,7 @@
 
 <img align="right" src="https://media.tenor.com/PXx8wxe2CPEAAAAi/what.gif" width="200" alt="Animated sticker"/>
 
-🎓 &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad** — CGPA **9.0/10**
+🎓 &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad**
 
 🔭 &nbsp;Building **developer tools & web apps** that solve real problems
 
