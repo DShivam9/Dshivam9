@@ -27,20 +27,39 @@
 <br/>
 
 <!-- ABOUT ME -->
-## 👨‍💻 &nbsp;About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
+<img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="18"/> &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad** — CGPA **9.0/10**
+
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="18"/> &nbsp;Currently building polished **developer tools & web apps** that solve real problems
+
+<img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="18"/> &nbsp;Deep-diving into **Next.js, TypeScript & system design**
+
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="18"/> &nbsp;I ship side projects every month — from retro gaming platforms to image converters
+
+<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="18"/> &nbsp;Passionate about **clean code, pixel-perfect UI**, and ownership-driven development
+
+<img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="18"/> &nbsp;Ask me about **React, Next.js, Node.js**, or anything frontend
+
+<br clear="right"/>
+
+<br/>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 <!-- TECH STACK -->
-## 🛠 &nbsp;Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 🎨 Frontend
+### <img src="https://media.giphy.com/media/XAxylRMCKpH2HB19FQ/giphy.gif" width="20"/> Frontend
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,7 +74,7 @@
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Backend
+### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="20"/> Backend
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -67,7 +86,7 @@
 </td>
 <td valign="top" width="33%">
 
-### 🗄️ Database & Cloud
+### <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"/> Database & Cloud
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -81,7 +100,7 @@
 <tr>
 <td valign="top" width="33%">
 
-### 🛠️ Dev Tools
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="20"/> Dev Tools
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -95,7 +114,7 @@
 </td>
 <td colspan="2" valign="top" width="66%">
 
-### 🤖 AI Tools
+### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="20"/> AI Tools
 <div align="center">
 
 ![Claude](https://img.shields.io/badge/Claude-d4a574?style=flat-square&logo=anthropic&logoColor=white)
@@ -112,11 +131,16 @@
 
 <br/>
 
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
-## 🚀 &nbsp;Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
 
 <!-- PROJECT 1 -->
-> ### 🏫 Campusly — Smart Campus Management Platform
+> ### <img src="https://media.giphy.com/media/UqpBLf0fJGyOI/giphy.gif" width="18"/> Campusly — Smart Campus Management Platform
 > `PostgreSQL` `Express` `React` `Node.js` `PostGIS` `Firebase` `Tailwind CSS`
 >
 > A scalable **PERN stack** campus management platform serving **4 distinct user roles**: students, faculty, admin, and alumni.
@@ -128,7 +152,7 @@
 <br/>
 
 <!-- PROJECT 2 -->
-> ### 🎮 RetroRift — Web-Based Retro Gaming Platform
+> ### <img src="https://media.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif" width="18"/> RetroRift — Web-Based Retro Gaming Platform
 > <a href="https://www.retrorift.online/"><img src="https://img.shields.io/badge/▸_Live_Demo-1f6feb?style=flat-square" alt="Live"/></a>&nbsp;<a href="https://github.com/DShivam9/RetroRift"><img src="https://img.shields.io/badge/▸_Source_Code-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
 > `React` `Vite` `WebGL` `WebAssembly` `Tailwind CSS`
@@ -142,7 +166,7 @@
 <br/>
 
 <!-- PROJECT 3 -->
-> ### 📸 SNIPCAST — Code Snippet Image Generator
+> ### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="18"/> SNIPCAST — Code Snippet Image Generator
 > <a href="https://codesnippt.vercel.app"><img src="https://img.shields.io/badge/▸_Live_Demo-1f6feb?style=flat-square" alt="Live"/></a>&nbsp;<a href="https://github.com/DShivam9/SNIPCAST"><img src="https://img.shields.io/badge/▸_Source_Code-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
 > `Next.js` `TypeScript` `Tailwind CSS`
@@ -156,7 +180,7 @@
 <br/>
 
 <!-- PROJECT 4 -->
-> ### 🖼️ HEIC Studio — Image Converter
+> ### <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="18"/> HEIC Studio — Image Converter
 > <a href="https://www.heicstudio.space/"><img src="https://img.shields.io/badge/▸_Live_Demo-1f6feb?style=flat-square" alt="Live"/></a>&nbsp;<a href="https://github.com/DShivam9/HEIC-STUDIO"><img src="https://img.shields.io/badge/▸_Source_Code-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
 > `Next.js` `TypeScript` `Tailwind CSS`
@@ -170,7 +194,7 @@
 <br/>
 
 <!-- PROJECT 5 -->
-> ### ☀️ WeatherEye
+> ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpxaHRvMmhxOHhpcjF4NmhkNWlhbGRybnpkamlyYWh4N2RjemFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdMrR/giphy.gif" width="18"/> WeatherEye
 > <a href="https://dshivam9.github.io/WeatherEye/"><img src="https://img.shields.io/badge/▸_Live_Demo-1f6feb?style=flat-square" alt="Live"/></a>&nbsp;<a href="https://github.com/DShivam9/WeatherEye"><img src="https://img.shields.io/badge/▸_Source_Code-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
 > `HTML` `CSS` `JavaScript` `OpenWeatherMap API`
@@ -180,7 +204,7 @@
 <br/>
 
 <!-- PROJECT 6 -->
-> ### 🧬 OSCORP — 3D Immersive Landing Page
+> ### <img src="https://media.giphy.com/media/3oKIPnAiaMCJ8rJ6Gk/giphy.gif" width="18"/> OSCORP — 3D Immersive Landing Page
 > <a href="https://dshivam9.github.io/Immersive-Landing-Page/"><img src="https://img.shields.io/badge/▸_Live_Demo-1f6feb?style=flat-square" alt="Live"/></a>&nbsp;<a href="https://github.com/DShivam9/Immersive-Landing-Page"><img src="https://img.shields.io/badge/▸_Source_Code-21262d?style=flat-square&logo=github" alt="Source"/></a>
 >
 > `HTML` `CSS` `JavaScript` `Spline 3D`
@@ -189,8 +213,13 @@
 
 <br/>
 
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
 <!-- GITHUB STATS -->
-## 📊 &nbsp;GitHub Analytics
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -211,10 +240,13 @@
 
 <br/>
 
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
 
 <!-- CONNECT -->
-## 📬 &nbsp;Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;Let's Connect
 
 <div align="center">
 
