@@ -27,7 +27,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="300" alt="Top Languages"/>
 
@@ -48,7 +48,7 @@
 <br/>
 
 <!-- TECH STACK -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
+## 🛠 &nbsp;Tech Arsenal
 
 <table>
 <tr>
@@ -125,7 +125,7 @@
 <br/>
 
 <!-- FEATURED PROJECTS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <!-- PROJECT 1 -->
 > ### 🏫 Campusly — Smart Campus Management Platform
@@ -202,7 +202,7 @@
 <br/>
 
 <!-- GITHUB STATS -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -223,21 +223,10 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION -->
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DShivam9/DShivam9/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DShivam9/DShivam9/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/DShivam9/DShivam9/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- CONNECT -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="28" /> &nbsp;Let's Connect
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
