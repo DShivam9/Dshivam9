@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Shivam%20Diwan&fontSize=52&fontColor=e6edf3&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Open%20Source&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:090979,50:1a1b6b,75:4338ca,100:6d28d9&height=230&section=header&text=Shivam%20Diwan&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%20Craftsman%20%E2%80%A2%20Open%20Source&descSize=17&descColor=c4b5fd&descAlignY=56&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Building+interactive+designs+that+stand+out;%3E+Code+by+day%2C+side+projects+by+night" alt="Typing SVG" /></a>
@@ -29,21 +29,7 @@
 <!-- ABOUT ME -->
 ## 👨‍💻 &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DShivam9&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="300" alt="Top Languages"/>
 
-🎓 &nbsp;CS & Business Systems undergrad at **GITAM University, Hyderabad** — CGPA **9.0/10**
-
-🔭 &nbsp;Currently building polished **developer tools & web apps** that solve real problems
-
-🌱 &nbsp;Deep-diving into **Next.js, TypeScript & system design**
-
-⚡ &nbsp;I ship side projects every month — from retro gaming platforms to image converters
-
-🧠 &nbsp;Passionate about **clean code, pixel-perfect UI**, and ownership-driven development
-
-💬 &nbsp;Ask me about **React, Next.js, Node.js**, or anything frontend
-
-<br clear="right"/>
 
 <br/>
 
@@ -113,8 +99,10 @@
 <div align="center">
 
 ![Claude](https://img.shields.io/badge/Claude-d4a574?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Manus](https://img.shields.io/badge/Manus_AI-8B5CF6?style=flat-square&logo=robot&logoColor=white)
+![CodeRabbit](https://img.shields.io/badge/CodeRabbit-FF6B2B?style=flat-square&logo=rabbit&logoColor=white)
 ![Stitch](https://img.shields.io/badge/Stitch-FF6154?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0id2hpdGUiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZD0iTTggMWw3IDQtNyA0LTctNHoiLz48cGF0aCBkPSJNMSA1bDcgNCA3LTQiIG9wYWNpdHk9Ii41Ii8+PC9zdmc+&logoColor=white)
 
 </div>
@@ -245,4 +233,4 @@
 <br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,25:090979,50:1a1b6b,75:4338ca,100:6d28d9&height=120&section=footer" width="100%" />
